@@ -1,2 +1,1 @@
-# veeraareev.github.io
-my first CV
+# kowshikgr.github.io
